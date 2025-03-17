@@ -12,4 +12,4 @@ The DUA contains restrictions on how you can use the data. We would like to draw
 
 If your institution has issues with language in the DUA, please have the responsible person at your institution contact us with their concerns and suggested modifications.
 
-Once the Primary Investigator has signed the DUA, the Primary Investigator should email the signed form to caolei@bnu.edu.cn. We will then send you the dataset along with a dataset description file.
+Once the Primary Investigator has signed the DUA, the Primary Investigator should email the signed form to caolei@bnu.edu.cn. We will then send you the dataset along with a dataset description file. All Weibo data is stored in TXT format, making it easy to read using simple text processing methods, such as the open function in Python.
